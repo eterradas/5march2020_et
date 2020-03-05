@@ -1,0 +1,12 @@
+{
+    "name": "et/5march2020_et",
+    "description": "Creating a testing package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eduard",
+            "email": "eterradas@gmail.com"
+        }
+    ],
+    "require": {}
+}
